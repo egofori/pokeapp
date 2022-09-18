@@ -25,6 +25,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Errors are displayed using the `antd` message feature.
 - Use the `BackTop` feature to scroll to the top of the page.
 
+## Future improvements
+- Improve UI/UX
+- Add search capability
+- Add redux for state management
+- Improve caching
+- Write more tests
+
 ## Additional libraries used
 - Antd 
 - Axios
