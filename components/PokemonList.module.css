@@ -1,0 +1,10 @@
+.listHeader :where(h5, div) {
+    display: inline-block;
+}
+
+.panel:hover {
+    border: 4px solid #eb7f2b;
+    background-color: #fafafa;
+    transform: scale(1.07);
+    transition: transform 70ms;
+}
