@@ -1,3 +1,3 @@
 import axios from "axios";
 
-export default axios.create({baseURL: "https://pokeapi.co/api/v2/pokemon"});
+export default axios.create({baseURL: process.env.NEXT_PUBLIC_API_URL});
